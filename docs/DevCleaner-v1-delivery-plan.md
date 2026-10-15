@@ -1,6 +1,6 @@
 # DevCleaner v1 — Delivery Plan & Issue Graph
 
-**Status:** updated planning baseline; GitHub entities have **not** been created.  
+**Status:** GitHub Issues [#1–#45](https://github.com/masterlifting/devcleaner/issues) are published; GitHub Project and native milestones are not configured.  
 **Date:** 2026-10-15  
 **Input:** `DevCleaner-v1-requirements-review.md`, user-approved decisions Q1–Q93, with Q25 subsequently clarified: no automatic quarantine cleanup.  
 **Goal:** user-testable checkpoints, explicit dependencies, independent PRs, no mandatory implementation prescription.
@@ -201,4 +201,4 @@ Each issue includes **Goal, Scope, Out of Scope, Acceptance Criteria, Dependenci
 
 ## 9. Ready-to-post descriptions
 
-See `DevCleaner-v1-GitHub-issue-drafts.md`. Do not publish drafts until repository identity and milestone mapping are available. Full original decisions stay in `DevCleaner-v1-requirements-review.md`.
+Published as GitHub Issues [#1–#45](https://github.com/masterlifting/devcleaner/issues). Planning IDs `DC-001…DC-045` map exactly to GitHub Issues `#1…#45`, respectively. The `M0`–`M6` stages are encoded in issue titles; native GitHub milestones and Project board have not yet been created. Dependencies are expressed using clickable `Blocked by #N` references in issue bodies. Full approved decisions remain in `DevCleaner-v1-requirements-review.md`.
