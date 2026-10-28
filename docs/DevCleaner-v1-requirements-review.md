@@ -313,4 +313,4 @@
 
 ---
 
-**Следующий шаг:** подготовленные milestones, issue template и dependency graph готовы к публикации после определения GitHub-репозитория и владельца. GitHub Issues [#1–#45](https://github.com/masterlifting/devcleaner/issues) опубликованы; GitHub Project пока не создан.
+**Исполнение:** актуальные задачи, их зависимости, объём первой поставки и критерии приёмки ведутся в [GitHub Issues](https://github.com/masterlifting/devcleaner/issues). Этот документ содержит продуктовые требования и утверждённые решения, но не является вторым источником графа выполнения.
